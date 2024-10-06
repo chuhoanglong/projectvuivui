@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "Ives van Hoorne",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "dayjs": "^1.11.13",
+    "express": "^4.21.0",
+    "moment": "^2.30.1",
+    "ws": "^8.18.0"
+  },
+  "type": "module"
+}
